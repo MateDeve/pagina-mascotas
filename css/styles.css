@@ -1,0 +1,54 @@
+body{
+    background: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navegar_ul{
+    background: #008b8b;
+}
+.navegar_li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+.navegar_li a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.titulo{
+    font-size: 40px;
+}
+h1{
+    text-align: center;
+    color: #008b8b;
+}
+.perros{
+    width: 600px;
+    margin-left: 150px;
+    margin-bottom: 20px ;
+}
+.ptexto{
+    background: #008b8b66;
+    text-align: justify;
+    margin: 220px;
+    margin-top: 20px;
+    border-radius: 15px;
+    color: #ffffff;
+    margin-bottom: 5px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.ptexto p{
+    font-size: 20px;
+    margin: 80px;
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+.redes{
+    display: inline-block;
+}
+.ig{
+    margin-left: 100px;
+    margin-right: 5px;
+}
+.fb{
+    border-radius: 10px;
+}

@@ -1,0 +1,97 @@
+body{
+    background: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navegar_ul{
+    background: #000000;
+}
+.navegar_li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+.navegar_li a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.titulo{
+    font-size: 40px;
+    color: #ffffff;
+}
+h1{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.ptexto{
+    background: #00000066;
+    color: #ffffff;
+	line-height: 2;
+	text-align: justify;
+	margin: 220px;
+	margin-top: 0;
+    margin-bottom: 3px;
+	border-radius: 30px;
+    margin-bottom: 5px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.kyra{
+    height: 500px;
+    width: 400px;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-left: 240px;
+}
+.tony{
+    height: 500px;
+    width: 400px;
+    margin-top: 25px;
+    border-radius: 10px;
+    margin-left: 240px;
+}
+.nala{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 240px;
+}
+.banner{
+    display: inline-block;
+    color: #ffffff;
+	margin: 220px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	border-radius: 20px;
+	text-align: center;
+	flex-grow: 1;
+}
+h2{
+    color: #ffffff;
+}
+.ptexto p{
+    font-size: 20px;
+    margin: 80px;
+    margin-top: 3px;
+    margin-bottom: 20px;
+}
+.redes{
+    display: inline-block;
+    margin-left: 100px;
+}
+.ig{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.fb{
+    border-radius: 10px;
+}
+.desc{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
